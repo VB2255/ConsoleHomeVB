@@ -10,7 +10,7 @@ namespace ConsoleHomeVB
     {
         public NewClassVB()
         {
-            Console.WriteLine("Команда разработчиков master!");
+            Console.WriteLine("Команда разработчиков 2!");
         }
     }
 }
